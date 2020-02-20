@@ -1,0 +1,6 @@
+.navbar-container{
+  display: flex;
+  margin: 10px;
+  width: 100vw;
+  justify-content: space-evenly;
+}
