@@ -14,7 +14,8 @@ export default class Landing extends Component {
         </div>
         <div className="list-container">
           <div>Name: </div>
-          <div>Image</div>
+          <div>Image:</div>
+          <div>Level:</div>
         </div>
       </div>
     )
